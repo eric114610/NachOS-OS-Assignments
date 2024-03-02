@@ -1,0 +1,292 @@
+Initializing the disk.
+Request latency = 500
+Reading from sector 0
+Updating last sector = 0 , 0
+Request latency = 1000
+Reading from sector 2
+Updating last sector = 2 , 0
+Request latency = 500
+Reading from sector 3
+Updating last sector = 3 , 0
+Request latency = 15000
+Reading from sector 33
+Updating last sector = 33 , 0
+Request latency = 15000
+Reading from sector 63
+Updating last sector = 63 , 0
+Request latency = 15000
+Reading from sector 93
+Updating last sector = 93 , 0
+Request latency = 15000
+Reading from sector 123
+Updating last sector = 123 , 0
+Request latency = 15000
+Reading from sector 153
+Updating last sector = 153 , 0
+Request latency = 15000
+Reading from sector 183
+Updating last sector = 183 , 0
+Request latency = 15000
+Reading from sector 213
+Updating last sector = 213 , 0
+Request latency = 15000
+Reading from sector 243
+Updating last sector = 243 , 0
+Request latency = 15000
+Reading from sector 273
+Updating last sector = 273 , 0
+Request latency = 15000
+Reading from sector 303
+Updating last sector = 303 , 0
+Request latency = 15000
+Reading from sector 333
+Updating last sector = 333 , 0
+Request latency = 15000
+Reading from sector 363
+Updating last sector = 363 , 0
+Request latency = 15000
+Reading from sector 393
+Updating last sector = 393 , 0
+Request latency = 15000
+Reading from sector 423
+Updating last sector = 423 , 0
+Request latency = 15000
+Reading from sector 453
+Updating last sector = 453 , 0
+Request latency = 15000
+Reading from sector 483
+Updating last sector = 483 , 0
+Request latency = 15000
+Reading from sector 513
+Updating last sector = 513 , 0
+Request latency = 15000
+Reading from sector 543
+Updating last sector = 543 , 0
+Request latency = 15000
+Reading from sector 573
+Updating last sector = 573 , 0
+Request latency = 15000
+Reading from sector 603
+Updating last sector = 603 , 0
+Request latency = 15000
+Reading from sector 633
+Updating last sector = 633 , 0
+Request latency = 15000
+Reading from sector 663
+Updating last sector = 663 , 0
+Request latency = 15000
+Reading from sector 693
+Updating last sector = 693 , 0
+Request latency = 15000
+Reading from sector 723
+Updating last sector = 723 , 0
+Request latency = 15000
+Reading from sector 753
+Updating last sector = 753 , 0
+Request latency = 15000
+Reading from sector 783
+Updating last sector = 783 , 0
+Request latency = 15000
+Reading from sector 813
+Updating last sector = 813 , 0
+Request latency = 15000
+Reading from sector 843
+Updating last sector = 843 , 0
+Request latency = 15000
+Reading from sector 873
+Updating last sector = 873 , 0
+Request latency = 500
+Reading from sector 874
+Updating last sector = 874 , 0
+Request latency = 15000
+Reading from sector 904
+Updating last sector = 904 , 0
+Request latency = 15000
+Reading from sector 934
+Updating last sector = 934 , 0
+Request latency = 15000
+Reading from sector 964
+Updating last sector = 964 , 0
+Request latency = 15000
+Reading from sector 994
+Updating last sector = 994 , 0
+Request latency = 15000
+Reading from sector 1024
+Updating last sector = 1024 , 0
+Request latency = 15000
+Reading from sector 1054
+Updating last sector = 1054 , 0
+Request latency = 15000
+Reading from sector 1084
+Updating last sector = 1084 , 0
+Request latency = 15000
+Reading from sector 1114
+Updating last sector = 1114 , 0
+Request latency = 15000
+Reading from sector 1144
+Updating last sector = 1144 , 0
+Request latency = 15000
+Reading from sector 1174
+Updating last sector = 1174 , 0
+Request latency = 15000
+Reading from sector 1204
+Updating last sector = 1204 , 0
+Request latency = 15000
+Reading from sector 1234
+Updating last sector = 1234 , 0
+Request latency = 15000
+Reading from sector 1264
+Updating last sector = 1264 , 0
+Request latency = 15000
+Reading from sector 1294
+Updating last sector = 1294 , 0
+Request latency = 15000
+Reading from sector 1324
+Updating last sector = 1324 , 0
+Request latency = 15000
+Reading from sector 1354
+Updating last sector = 1354 , 0
+Request latency = 15000
+Reading from sector 1384
+Updating last sector = 1384 , 0
+Request latency = 15000
+Reading from sector 1414
+Updating last sector = 1414 , 0
+Request latency = 15000
+Reading from sector 1444
+Updating last sector = 1444 , 0
+Request latency = 15000
+Reading from sector 1474
+Updating last sector = 1474 , 0
+Request latency = 15000
+Reading from sector 1504
+Updating last sector = 1504 , 0
+Request latency = 15000
+Reading from sector 1534
+Updating last sector = 1534 , 0
+Request latency = 15000
+Reading from sector 1564
+Updating last sector = 1564 , 0
+Request latency = 15000
+Reading from sector 1594
+Updating last sector = 1594 , 0
+Request latency = 15000
+Reading from sector 1624
+Updating last sector = 1624 , 0
+Request latency = 15000
+Reading from sector 1654
+Updating last sector = 1654 , 0
+Request latency = 15000
+Reading from sector 1684
+Updating last sector = 1684 , 0
+Request latency = 15000
+Reading from sector 1714
+Updating last sector = 1714 , 0
+Request latency = 15000
+Reading from sector 1744
+Updating last sector = 1744 , 0
+Request latency = 500
+Reading from sector 1745
+Updating last sector = 1745 , 0
+Request latency = 15000
+Reading from sector 1775
+Updating last sector = 1775 , 0
+Request latency = 15000
+Reading from sector 1805
+Updating last sector = 1805 , 0
+Request latency = 15000
+Reading from sector 1835
+Updating last sector = 1835 , 0
+Request latency = 15000
+Reading from sector 1865
+Updating last sector = 1865 , 0
+Request latency = 15000
+Reading from sector 1895
+Updating last sector = 1895 , 0
+Request latency = 15000
+Reading from sector 1925
+Updating last sector = 1925 , 0
+Request latency = 15000
+Reading from sector 1955
+Updating last sector = 1955 , 0
+Request latency = 15000
+Reading from sector 1985
+Updating last sector = 1985 , 0
+Request latency = 15000
+Reading from sector 2015
+Updating last sector = 2015 , 0
+Request latency = 15000
+Reading from sector 2045
+Updating last sector = 2045 , 0
+Request latency = 15000
+Reading from sector 2075
+Updating last sector = 2075 , 1023500
+Request latency = 15000
+Reading from sector 2105
+Updating last sector = 2105 , 1023500
+Request latency = 15000
+Reading from sector 2135
+Updating last sector = 2135 , 1023500
+Request latency = 15000
+Reading from sector 2165
+Updating last sector = 2165 , 1023500
+Request latency = 15000
+Reading from sector 2195
+Updating last sector = 2195 , 1023500
+Request latency = 15000
+Reading from sector 2225
+Updating last sector = 2225 , 1023500
+Request latency = 15000
+Reading from sector 2255
+Updating last sector = 2255 , 1023500
+Request latency = 15000
+Reading from sector 2285
+Updating last sector = 2285 , 1023500
+Request latency = 15000
+Reading from sector 2315
+Updating last sector = 2315 , 1023500
+Request latency = 15000
+Reading from sector 2345
+Updating last sector = 2345 , 1023500
+Request latency = 15000
+Reading from sector 2375
+Updating last sector = 2375 , 1023500
+Request latency = 15000
+Reading from sector 2405
+Updating last sector = 2405 , 1023500
+Request latency = 15000
+Reading from sector 2435
+Updating last sector = 2435 , 1023500
+Request latency = 15000
+Reading from sector 2465
+Updating last sector = 2465 , 1023500
+Request latency = 15000
+Reading from sector 2495
+Updating last sector = 2495 , 1023500
+Request latency = 15000
+Reading from sector 2525
+Updating last sector = 2525 , 1023500
+Request latency = 15000
+Reading from sector 2555
+Updating last sector = 2555 , 1023500
+Request latency = 15000
+Reading from sector 2585
+Updating last sector = 2585 , 1023500
+Request latency = 756000
+Reading from sector 1
+Updating last sector = 1 , 1293500
+Request latency = 500
+Reading from sector 1
+Updating last sector = 1 , 1293500
+Request latency = 341450
+Reading from sector 25261
+Updating last sector = 25261 , 2056000
+Request latency = 500
+Reading from sector 25262
+Updating last sector = 25262 , 2056000
+Request latency = 500
+Reading from sector 25261
+Updating last sector = 25261 , 2056000
+Request latency = 500
+Reading from sector 25262
+Updating last sector = 25262 , 2056000

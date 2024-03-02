@@ -1,0 +1,1 @@
+"asdfas" << assert(1) << "sdfsdf"
